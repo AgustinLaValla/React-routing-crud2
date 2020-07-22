@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.primary_color {
+  background-color: #aa00aa;
+}
+.secondary-color {
+  background-color: #ff9922;
+}
+
+.danger_color {
+  background-color: #bb0033;
+}
+
+.navbar-nav li {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.user-info-list {
+  list-style: none;
+}
+
+.user-info-list li {
+  margin: 10px 0px;
+  font-weight: bold;
+  font-size: 18px;
+}
